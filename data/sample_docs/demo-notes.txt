@@ -1,0 +1,1 @@
+Demo notes: A good document search system splits long documents into smaller passages. It stores each passage with its source filename so search results can be traced back to the original document. A useful search should return the most relevant passages even when the question uses different wording from the document.
